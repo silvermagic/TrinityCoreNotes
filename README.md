@@ -26,7 +26,9 @@
 本目录下提供：
 
 * Windows / Linux 编译环境搭建指南
-* 客户端提取工具和本地调试工具（百度网盘备用下载地址: https://pan.baidu.com/s/1MlAB0LokoTRt8Ghqv7f8YA?pwd=b8gb 提取码: b8gb）
+* 客户端提取工具和本地调试工具
+    - 百度网盘: https://pan.baidu.com/s/5pOhY0s5qSVLlN66gUKsY6g?
+    - 夸克网盘：https://pan.quark.cn/s/99686f032327
 
 👉 位于 `resources/tools/` 目录。
 
